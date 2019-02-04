@@ -1,0 +1,9 @@
+[submodule "power-v4-hw"]
+	path = power-v4-hw
+	url = git@github.com:sourcebots/power-v4-hw.git
+[submodule "motor-v4-hw"]
+	path = motor-v4-hw
+	url = git@github.com:sourcebots/motor-v4-hw.git
+[submodule "servo-v4-hw"]
+	path = servo-v4-hw
+	url = git@github.com:sourcebots/servo-v4-hw.git
