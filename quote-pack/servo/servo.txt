@@ -1,0 +1,22 @@
+## Specifications ##
+
+Substrate: 1.6mm FR4
+Num layers: 4
+Copper weight: 1oz
+Finish: HASL
+Soldermask: top and bottom
+Soldermask colour: cheapest
+Silkscreen: top and bottom
+Silkscreen colour: cheapest (must be visible against soldermask)
+Quantity: 25 boards
+
+Layer stackup:
+  Top (servo.top.gbr)
+  Inner 1 (servo.group2.gbr)
+  Inner 2 (servo.group3.gbr)
+  Bottom (servo.bottom.gbr)
+
+
+## Components Of Note ##
+
+N/A

@@ -1,0 +1,29 @@
+## Specifications ##
+
+Substrate: 1.6mm FR4
+Num layers: 4
+Copper weight: 1oz
+Finish: HASL
+Soldermask: top and bottom
+Soldermask colour: cheapest
+Silkscreen: top and bottom
+Silkscreen colour: cheapest (must be visible against soldermask)
+Quantity: 17 boards
+
+Layer stackup:
+  Top (power.top.gbr)
+  Inner 1 (power.group2.gbr)
+  Inner 2 (power.group3.gbr)
+  Bottom (power.bottom.gbr)
+
+
+## Components Of Note ##
+
+J1, J2, J3: these components must be mounted
+using a press; no solder is required.
+If this is within your capabilities, please
+quote for doing so. If not, do not populate.
+
+C11: do not populate (unused)
+
+F1, X2, J5: do not populate (requires fasteners)

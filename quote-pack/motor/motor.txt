@@ -1,0 +1,22 @@
+## Specifications ##
+
+Substrate: 1.6mm FR4
+Num layers: 4
+Copper weight: 1oz
+Finish: HASL
+Soldermask: top and bottom
+Soldermask colour: cheapest
+Silkscreen: top and bottom
+Silkscreen colour: cheapest (must be visible against soldermask)
+Quantity: 16 boards
+
+Layer stackup:
+  Top (motor.top.gbr)
+  Inner 1 (motor.group2.gbr)
+  Inner 2 (motor.group3.gbr)
+  Bottom (motor.bottom.gbr)
+
+
+## Components Of Note ##
+
+D14, R2, R3, R11: do not populate (unused)
