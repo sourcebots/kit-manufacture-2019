@@ -39,10 +39,6 @@ R16,"0402_sr.fp","sr-r-10k-0402",26.05,29.10,270,top
 C28,"0402_sr.fp","sr-c-100n-0402-16v",25.05,28.40,90,top
 U4,"LQFP64_10_sr.fp","sr-ic-stm32f100r6",17.90,28.10,180,top
 J3,"camcon_38_4_sr.fp","sr-cn-minicamcon4w",26.00,14.00,90,top
-(unknown),"(unknown)","M3_mounting_hole",13.50,76.50,0,top
-(unknown),"(unknown)","M3_mounting_hole",13.50,13.50,0,top
-(unknown),"(unknown)","M3_mounting_hole",58.50,13.50,0,top
-(unknown),"(unknown)","M3_mounting_hole",58.50,76.50,0,top
 C35,"0603_sr.fp","sr-c-100n-0603-50v",25.80,48.95,0,top
 C36,"1206_sr.fp","sr-c-10u-1206-16v",30.05,51.15,90,top
 C33,"0603_sr.fp","sr-c-100n-0603-50v",57.80,48.95,0,top
