@@ -11,4 +11,8 @@ for board_name in $*; do
   rm -rf $gerber_dir
   mkdir -p $gerber_dir
   pcb -x gerber --gerberfile $gerber_dir/$board_name $pcb_file
+
+  if [ $board_name == "power" ]; then
+    rm -f $gerber_dir/power.group5.gbr
+  fi
 done
