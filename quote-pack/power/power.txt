@@ -5,9 +5,9 @@ Num layers: 4
 Copper weight: 1oz
 Finish: HASL
 Soldermask: top and bottom
-Soldermask colour: cheapest
+Soldermask colour: green
 Silkscreen: top and bottom
-Silkscreen colour: cheapest (must be visible against soldermask)
+Silkscreen colour: white
 Quantity: 17 boards
 
 Layer stackup:
