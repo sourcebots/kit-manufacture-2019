@@ -9,6 +9,7 @@ Soldermask colour: green
 Silkscreen: top and bottom
 Silkscreen colour: white
 Quantity: 25 boards
+Dimensions: 50mm x 51mm
 
 Layer stackup:
   Top (servo.top.gbr)
