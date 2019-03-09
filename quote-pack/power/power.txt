@@ -22,6 +22,8 @@ Number of through-hole components: 18
   of which are soldered: 15
   of which are press-fit: 3
 
+Number of types of component / BOM lines: 65
+
 
 ## Components Of Note ##
 

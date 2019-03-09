@@ -20,6 +20,8 @@ Layer stackup:
 Number of surface mount components: 156
 Number of through-hole components: 8
 
+Number of types of component / BOM lines: 59
+
 
 ## Components Of Note ##
 
