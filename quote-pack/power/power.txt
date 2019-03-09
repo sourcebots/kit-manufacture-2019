@@ -17,6 +17,11 @@ Layer stackup:
   Inner 2 (power.group3.gbr)
   Bottom (power.bottom.gbr)
 
+Number of surface mount components: 190
+Number of through-hole components: 18
+  of which are soldered: 15
+  of which are press-fit: 3
+
 
 ## Components Of Note ##
 

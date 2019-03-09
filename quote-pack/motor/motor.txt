@@ -17,6 +17,9 @@ Layer stackup:
   Inner 2 (motor.group3.gbr)
   Bottom (motor.bottom.gbr)
 
+Number of surface mount components: 156
+Number of through-hole components: 8
+
 
 ## Components Of Note ##
 
