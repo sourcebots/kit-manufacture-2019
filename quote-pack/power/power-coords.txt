@@ -82,9 +82,6 @@ DS4,"0805_split_led_sr.fp","sr-led-redgreen-0805",20.20,33.00,0,top
 R46,"0805_sr.fp","sr-r-1k-0805",20.20,47.00,90,top
 J13,"camcon_75_2_sr.fp","sr-cn-camcon2w",16.00,51.00,270,top
 J12,"camcon_75_2_sr.fp","sr-cn-camcon2w",16.00,69.00,270,top
-J3,"WURTH_7460305_sr.fp","sr-cn-7460305",16.20,17.00,270,top
-J2,"WURTH_7460305_sr.fp","sr-cn-7460305",57.60,17.00,180,top
-J1,"WURTH_7460305_sr.fp","sr-cn-7460305",27.60,17.00,180,top
 Q1,"PQFN56B_sr.fp","sr-fet-n-irfh5301",42.50,13.90,180,top
 Q2,"PQFN56B_sr.fp","sr-fet-n-irfh5301",42.50,20.10,180,top
 DS2,"0805_led_sr.fp","sr-led-green-0805",32.30,87.70,270,top
