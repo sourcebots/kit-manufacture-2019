@@ -1,5 +1,5 @@
 # PcbXY Version 1.0
-# Date: Mon 11 Feb 2019 17:17:02 GMT UTC
+# Date: Wed 10 Jul 2019 18:28:55 GMT UTC
 # Author: Kier Davis
 # Title: (unknown) - PCB X-Y
 # RefDes, Description, Value, X, Y, rotation, top/bottom
@@ -210,3 +210,5 @@ X1,"PKM13EPYH4000_sr.fp","sr-piezo-pkm13epy-4000-a0",42.50,75.90,270,top
 R74,"0402_sr.fp","sr-r-10k-0402",28.20,64.40,90,top
 R75,"0402_sr.fp","sr-r-1k-0402",34.20,75.00,90,top
 C63,"0402_sr.fp","sr-c-100n-0402-16v",35.20,76.90,270,top
+FID2,"FIDUCIAL_sr.fp","unknown",63.90,23.80,0,top
+FID1,"FIDUCIAL_sr.fp","unknown",26.70,87.90,0,top
