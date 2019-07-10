@@ -27,10 +27,7 @@ Number of types of component / BOM lines: 65
 
 ## Components Of Note ##
 
-J1, J2, J3: these components must be mounted
-using a press; no solder is required.
-If this is within your capabilities, please
-quote for doing so. If not, do not populate.
+J1, J2, J3: do not populate (requires press-fitting)
 
 C11: do not populate (unused)
 
