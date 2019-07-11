@@ -30,16 +30,10 @@ def remove_comment_lines(lines):
   return (line for line in lines if not line.startswith("#"))
 
 def part_id_to_value(s):
-  m = re.match(r"^sr-(?:c|cm|fb|fuse|l|led|r)-([^-]+)-", s)
-  if m:
-    return m.group(1)
-  m = re.match(r"^sr-ra-\d+-([^-]+)-", s)
-  if m:
-    return m.group(1)
-  m = re.match(r"^sr-(?:c|cn|d|fet-[np]|ic|npn|piezo|pnp|r|sw|xtal)-(.+)$", s)
-  if m:
-    return m.group(1)
-  return s
+  try:
+    return s.split("-", 2)[2]
+  except IndexError:
+    return s
 
 def footprint_to_package(s):
   suffix = "_sr.fp"
