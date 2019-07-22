@@ -18,9 +18,8 @@ Layer stackup:
   Bottom (power.bottom.gbr)
 
 Number of surface mount components: 190
-Number of through-hole components: 18
-  of which are soldered: 15
-  of which are press-fit: 3
+Number of soldered through-hole components: 15
+Number of press-fit through-hole components: 3 (do not populate)
 
 Number of types of component / BOM lines: 65
 
