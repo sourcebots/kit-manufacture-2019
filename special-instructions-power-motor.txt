@@ -1,0 +1,18 @@
+DRILL FILES:
+Please note that each board design has TWO drill files:
+  power/motor.plated-drill.cnc: drill holes listed in this file should be plated
+  power/motor.unplated-dirll.cnc: drill holes listed in this file should not be plated
+
+LAYER STACKUP:
+1. top (power/motor.top.gbr)
+2. inner 1 (power/motor.group2.gbr)
+3. inner 2 (power/motor.group3.gbr)
+4. bottom (power/motor.bottom.gbr)
+
+NON-POPULATED COMPONENTS:
+"power" board: do not populate components J1, J2, J3, C11, F1, X2, J5.
+"motor" board: do not populate components D14, R2, R3, R11.
+
+REFERENCE MARKERS:
+Components FID1 and FID2 are the visual reference markers.
+They appear as small crosses on the top silkscreen.

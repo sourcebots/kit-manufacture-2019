@@ -1,0 +1,9 @@
+LAYER STACKUP:
+1. top (servo.top.gbr)
+2. inner 1 (servo.group2.gbr)
+3. inner 2 (servo.group3.gbr)
+4. bottom (servo.bottom.gbr)
+
+REFERENCE MARKERS:
+Components FID1 and FID2 are the visual reference markers.
+They appear as small crosses on the top silkscreen.
